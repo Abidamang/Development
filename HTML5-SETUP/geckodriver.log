@@ -1,0 +1,268 @@
+1485527837564	geckodriver	INFO	Listening on 127.0.0.1:58772
+1485527839530	mozprofile::profile	INFO	Using profile path C:\Users\ABID~1.GHU\AppData\Local\Temp\rust_mozprofile.sQe0D70jal29
+1485527839535	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1485527839542	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58779
+1485527839716	addons.manager	DEBUG	Application has been upgraded
+1485527839738	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1485527839740	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1485527839742	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1485527839744	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1485527839744	addons.manager	DEBUG	Starting provider: XPIProvider
+1485527839744	addons.xpi	DEBUG	startup
+1485527839745	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1485527839746	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1485527839746	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1485527839746	addons.xpi	INFO	Mapping loop@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1485527839747	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1485527839747	addons.xpi	DEBUG	checkForChanges
+1485527839747	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1485527839748	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1485527839748	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1485527839749	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1485527839749	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1485527839749	addons.xpi	DEBUG	New add-on loop@mozilla.org in app-system-defaults
+1485527839749	addons.xpi	DEBUG	getModTime: Recursive scan of loop@mozilla.org
+1485527839750	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1485527839750	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1485527839750	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"e10srollout@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","st":1467312233124},"firefox@getpocket.com":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","st":1467312233099},"loop@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\loop@mozilla.org.xpi","st":1467312233046}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1467312233125}}}
+1485527839756	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\ABID~1.GHU\AppData\Local\Temp\rust_mozprofile.sQe0D70jal29\extensions.json
+1485527839756	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1485527839763	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839763	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1485527839766	DeferredSave.extensions.json	DEBUG	Starting timer
+1485527839767	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839767	addons.xpi-utils	DEBUG	New add-on loop@mozilla.org installed in app-system-defaults
+1485527839773	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839774	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1485527839777	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839777	addons.xpi-utils	INFO	Hiding the updated system add-ons.
+1485527839781	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1485527839790	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.0
+1485527839790	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1485527839790	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839790	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1485527839793	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.2
+1485527839793	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1485527839793	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839794	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1485527839797	addons.xpi	DEBUG	Calling bootstrap method install on loop@mozilla.org version 1.3.2
+1485527839797	addons.xpi-utils	DEBUG	Make addon app-system-defaults:loop@mozilla.org visible
+1485527839797	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839797	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1485527839798	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839798	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"8wzKT3fBHuqM","location":"app-system-defaults","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","installDate":1467312233124,"updateDate":1467312233124,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":4584,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.1","maxVersion":"47.0.1"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1485527839798	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1485527839798	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"jKV7qvEBkNdZ","location":"app-system-defaults","version":"1.0.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","installDate":1467312233099,"updateDate":1467312233099,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":894477,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.1","maxVersion":"47.0.1"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1485527839798	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1485527839799	addons.xpi	DEBUG	Updating XPIState for {"id":"loop@mozilla.org","syncGUID":"D9b-SSkI_z3Y","location":"app-system-defaults","version":"1.3.2","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox Hello","description":"Web sharing for Firefox","creator":"Mozilla","homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\loop@mozilla.org.xpi","installDate":1467312233046,"updateDate":1467312233046,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":4239168,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"46.0a1","maxVersion":"47.*"},{"id":"xpcshell@tests.mozilla.org","minVersion":"0","maxVersion":"10"}],"targetPlatforms":[],"multiprocessCompatible":false,"seen":true}
+1485527839799	addons.xpi	DEBUG	getModTime: Recursive scan of loop@mozilla.org
+1485527839799	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"dDvPvhLZ8F0W","location":"app-global","version":"47.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{"32":"icon.png","48":"icon.png"},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1467312233125,"updateDate":1467312233125,"applyBackgroundUpdates":1,"skinnable":true,"size":22012,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"47.0.1","maxVersion":"47.0.1"}],"targetPlatforms":[],"seen":true}
+1485527839799	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1485527839800	DeferredSave.extensions.json	DEBUG	Save changes
+1485527839800	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1485527839800	addons.xpi-utils	DEBUG	Updating add-on states
+1485527839800	addons.xpi-utils	DEBUG	Writing add-ons list
+1485527839802	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1485527839803	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.0
+1485527839803	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1485527839803	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.2
+1485527839804	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\loop@mozilla.org.xpi
+1485527839804	addons.xpi	DEBUG	Calling bootstrap method startup on loop@mozilla.org version 1.3.2
+1485527839820	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1485527839821	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1485527839821	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1485527839821	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1485527839821	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1485527839821	addons.manager	DEBUG	Starting provider: GMPProvider
+1485527839826	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1485527839826	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1485527839826	addons.manager	DEBUG	Starting provider: PluginProvider
+1485527839827	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1485527839827	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1485527839827	addons.manager	DEBUG	Completed startup sequence
+1485527839996	Marionette	INFO	Listening on port 58779
+1485527840213	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1485527840213	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1485527840213	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1485527840243	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1485527840243	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1485527840244	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1485527840245	DeferredSave.extensions.json	DEBUG	Starting write
+1485527840474	DeferredSave.extensions.json	DEBUG	Write succeeded
+1485527840474	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 17
+JavaScript error: chrome://marionette/content/proxy.js, line 228: TypeError: l is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 228: TypeError: l is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 228: TypeError: l is undefined
+1485527900899	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/47.0.1/20160623154057/WINNT_x86-msvc-x64/en-US/release/Windows_NT%206.1.1.0%20(x64)/default/default/update.xml
+1485527901341	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.0
+1485527901342	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.2
+1485527901342	addons.xpi	DEBUG	Calling bootstrap method shutdown on loop@mozilla.org version 1.3.2
+[NPAPI 7972] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2027
+-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2027
+ download. status=200
+1485303865200	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\ABID~1.GHU\AppData\Local\Temp\tmpaddon-187b8d
+1485304134124	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.0
+1485304134124	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.2
+1485304134125	addons.xpi	DEBUG	Calling bootstrap method shutdown on loop@mozilla.org version 1.3.2
+[NPAPI 984] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2027
+
+5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.clearElement@chrome://marionette/content/driver.js:2234:13
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.clearElement@chrome://marionette/content/driver.js:2234:13
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+Marionette threw an error: TypeError: this.browser.getBrowserForTab is not a function
+BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.clearElement@chrome://marionette/content/driver.js:2234:13
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+[NPAPI 6788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2027
+ToolsUtils.js:101:14
+
+[NPAPI 10080] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2027
+rionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:2561:14
+Dispatcher.prototype.execute/req<@chrome://marionette/content/dispatcher.js:126:20
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:2561:14
+Dispatcher.prototype.execute/req<@chrome://marionette/content/dispatcher.js:126:20
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+Marionette threw an error: TypeError: this.browser.getBrowserForTab is not a function
+BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:2561:14
+Dispatcher.prototype.execute/req<@chrome://marionette/content/dispatcher.js:126:20
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+1484761313095	addons.manager	DEBUG	shutdown
+1484761313095	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1484761313096	addons.xpi	DEBUG	shutdown
+1484761313096	addons.xpi-utils	DEBUG	shutdown
+1484761313096	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1484761313096	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1484761313098	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1484761313098	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1484761313099	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1484761313101	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1484761313103	addons.manager	DEBUG	Async provider shutdown done
